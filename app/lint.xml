@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="HandlerLeak">
+        <ignore path="src/com/simple/view/VideoPlayerView.java" />
+    </issue>
+    <issue id="NewApi">
+        <ignore path="src/com/simple/view/MediaPlayerRunnable.java" />
+        <ignore path="src/com/simple/view/MovePlayerView.java" />
+        <ignore path="src/com/simple/view/PlayerScaleView.java" />
+        <ignore path="src/com/simple/view/SlidingCtrlScaleView.java" />
+        <ignore path="src/com/simple/view/SlidingFinishPageView.java" />
+        <ignore path="src/com/simple/view/VerticalVideoPlayerView.java" />
+        <ignore path="src/com/simple/view/VideoPlayerView.java" />
+    </issue>
+</lint>
